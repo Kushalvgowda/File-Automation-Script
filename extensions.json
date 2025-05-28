@@ -1,0 +1,50 @@
+{
+    "_comment_1": "Documents and text-based files",
+    ".txt": "Text File", ".doc": "Word Document", ".docx": "Word Document",
+    ".pdf": "PDF Document", ".rtf": "Rich Text Format", ".odt": "OpenDocument Text",
+    ".md": "Markdown", ".tex": "LaTeX Document", ".pptx": "Power Point",
+    
+    "_comment_2": "Programming & Scripting Languages",
+    ".py": "Python Script", ".java": "Java Source Code", ".c": "C Source Code",
+    ".cpp": "C++ Source Code", ".cs": "C# Source Code", ".rb": "Ruby Script",
+    ".php": "PHP Script", ".swift": "Swift Source Code", ".go": "Go Source Code",
+    ".kt": "Kotlin Source Code", ".lua": "Lua Script", ".pl": "Perl Script",
+    ".sh": "Shell Script", ".bat": "Batch File", ".cmd": "Windows Command Script",
+    ".r": "R Script", ".jl": "Julia Script", ".asm": "Assembly Language Source Code",
+    ".ipynb": "Jupiter Python",
+    
+    "_comment_3": "Web Development",
+    ".html": "HTML File", ".htm": "HTML File", ".css": "CSS File",
+    ".js": "JavaScript File", ".ts": "TypeScript File", ".xml": "XML File",
+    ".json": "JSON File", ".yaml": "YAML File", ".yml": "YAML File",
+    
+    "_comment_4": "Database & Data Files",
+    ".sql": "SQL Database Script", ".csv": "CSV File", ".tsv": "Tab-Separated Values",
+    ".db": "Database File", ".sqlite": "SQLite Database", ".mdb": "Microsoft Access Database",
+    ".xls": "Excel Spreadsheet", ".xlsx": "Excel Spreadsheet",
+    
+    "_comment_5": "Compressed Files",
+    ".zip": "ZIP Archive", ".rar": "RAR Archive", ".tar": "TAR Archive",
+    ".gz": "GZIP Compressed File", ".7z": "7-Zip Archive",
+    
+    "_comment_6": " Media Files (Images, Audio, Video)",
+    ".png": "PNG Image", ".jpeg": "JPEG Image", ".jpg": "JPEG Image",
+    ".gif": "GIF Image", ".bmp": "Bitmap Image", ".tiff": "TIFF Image",
+    ".svg": "Scalable Vector Graphics", ".heic": "HEIC Image",
+    
+    ".mp3": "MP3 Audio", ".wav": "WAV Audio", ".ogg": "OGG Audio",
+    ".flac": "FLAC Audio", ".aac": "AAC Audio", ".m4a": "M4A Audio",
+    
+    ".mp4": "MP4 Video", ".mkv": "Matroska Video", ".avi": "AVI Video",
+    ".mov": "MOV Video", ".flv": "Flash Video", ".wmv": "Windows Media Video",
+    ".webm": "WebM Video",
+    
+    "_comment_7": "System & Executable Files",
+    ".exe": "Windows Executable", ".dll": "Dynamic Link Library",
+    ".sys": "System File", ".iso": "Disk Image", ".bin": "Binary File",
+    ".apk": "Android Package", ".dmg": "Mac Disk Image",
+    
+    "_comment_8": "Miscellaneous",
+    ".log": "Log File", ".ini": "Configuration File", ".cfg": "Configuration File",
+    ".srt": "Subtitle File", ".torrent": "Torrent File"
+}

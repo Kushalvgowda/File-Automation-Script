@@ -1,0 +1,7 @@
+{
+    "Main_folder": "F:/Brand_new/pyprojects",
+    "destination_folder": "F:/Brand_new/pyprojects",
+    "log_file": "F:/Brand_new/pyprojects/file_sorter.log",
+    "task_scheduler_frequency": "daily",
+    "file_extensions": "F:/Full_Stack/Python/Python-file-automation/extensions.json"
+}
